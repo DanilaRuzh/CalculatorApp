@@ -34,6 +34,9 @@ CalculatorApp
 
 ![Alt text](Calculator/Screen_2.png)
 
+<img src="AutoLayout/Screen_1.png" alt="Screenshot 1" width="400">
+<img src="AutoLayout/Screen_2.png" alt="Screenshot 2" width="400">
+
 Установка
 
 	1.	Склонируйте репозиторий:
