@@ -30,10 +30,6 @@ CalculatorApp
 
 Скриншоты
 
-![Alt text](Calculator/Screen_1.png)
-
-![Alt text](Calculator/Screen_2.png)
-
 <img src="Calculator/Screen_1.png" alt="Screenshot 1" width="400">
 <img src="Calculator/Screen_2.png" alt="Screenshot 2" width="400">
 
