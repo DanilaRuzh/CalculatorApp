@@ -30,9 +30,9 @@ CalculatorApp
 
 Скриншоты
 
-![Alt text](Calculator/Simulator Screenshot - iPhone 13 - 2025-04-09 at 06.58.55.png)
+![Alt text](Calculator/Screen_1.png)
 
-![Alt text](Calculator/Simulator Screenshot - iPhone 13 - 2025-04-09 at 06.59.33.png)
+![Alt text](Calculator/Screen_2.png)
 
 Установка
 
@@ -47,5 +47,3 @@ git clone https://github.com/DanilaRuzh/CalculatorApp.git
 
 Автор: DanilaRuzh
 GitHub: https://github.com/DanilaRuzh
-
-Хочешь, сделаю тебе этот файл и сразу подготовлю его для заливки в репозиторий?
